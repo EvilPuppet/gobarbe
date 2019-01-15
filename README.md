@@ -16,7 +16,7 @@ System contains user registration and barbers, user can schedule time with selec
 ![Schedule hours](https://i.ibb.co/hgDXbBT/screencapture-localhost-3000-app-appointments-new-4-2019-01-15-18-05-05.png)
 
 # With scheduled time, radios is disabled 
-! [disable](https://i.ibb.co/XjcxKDh/screencapture-localhost-3000-app-appointments-new-4-2019-01-15-18-05-28.png)
+![disable](https://i.ibb.co/XjcxKDh/screencapture-localhost-3000-app-appointments-new-4-2019-01-15-18-05-28.png)
 
 # No hours are available after 18:00
-! [noHours](https://i.ibb.co/fXm9MXN/screencapture-localhost-3000-app-appointments-new-4-2019-01-15-18-04-36.png)
+![noHours](https://i.ibb.co/fXm9MXN/screencapture-localhost-3000-app-appointments-new-4-2019-01-15-18-04-36.png)
